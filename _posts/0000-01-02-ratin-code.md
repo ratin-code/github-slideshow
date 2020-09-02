@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Ratin-code's slide!"
 ---
-THis is Ratin-code's command line
+THis is my awesome slide
 Use the left arrow to go back!
